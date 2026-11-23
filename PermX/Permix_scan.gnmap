@@ -1,0 +1,4 @@
+# Nmap 7.95 scan initiated Sat Nov 21 12:56:52 2026 as: nmap -sCV -oA Permix_scan 10.129.134.74
+Host: 10.129.134.74 ()	Status: Up
+Host: 10.129.134.74 ()	Ports: 22/open/tcp//ssh//OpenSSH 8.9p1 Ubuntu 3ubuntu0.10 (Ubuntu Linux; protocol 2.0)/, 80/open/tcp//http//Apache httpd 2.4.52/	Ignored State: closed (998)
+# Nmap done at Sat Nov 21 12:57:43 2026 -- 1 IP address (1 host up) scanned in 50.93 seconds

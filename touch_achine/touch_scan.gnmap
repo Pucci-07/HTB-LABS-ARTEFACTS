@@ -1,0 +1,4 @@
+# Nmap 7.95 scan initiated Thu Nov 12 11:40:58 2026 as: nmap -sCV -Pn -oA touch_scan 10.129.128.164
+Host: 10.129.128.164 ()	Status: Up
+Host: 10.129.128.164 ()	Ports: 135/open/tcp//msrpc//Microsoft Windows RPC/, 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/, 5985/open/tcp//http//Microsoft HTTPAPI httpd 2.0 (SSDP|UPnP)/, 8443/open/tcp//http//Microsoft HTTPAPI httpd 2.0 (SSDP|UPnP)/	Ignored State: filtered (996)
+# Nmap done at Thu Nov 12 11:43:40 2026 -- 1 IP address (1 host up) scanned in 162.17 seconds

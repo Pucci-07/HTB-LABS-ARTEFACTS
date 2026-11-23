@@ -1,0 +1,4 @@
+# Nmap 7.95 scan initiated Thu Jul  2 02:03:00 2026 as: nmap -sVC --script=vuln -T5 -oA Enigma -Pn -p 111 10.129.44.145
+Host: 10.129.44.145 (enigma.htb)	Status: Up
+Host: 10.129.44.145 (enigma.htb)	Ports: 111/filtered/tcp//rpcbind///
+# Nmap done at Thu Jul  2 02:03:11 2026 -- 1 IP address (1 host up) scanned in 10.98 seconds

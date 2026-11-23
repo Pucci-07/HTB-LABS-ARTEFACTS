@@ -1,0 +1,4 @@
+# Nmap 7.95 scan initiated Sat Nov 21 13:07:17 2026 as: nmap -sCV -oA Permix_full_scan -p- -T5 -Pn 10.129.134.74
+Host: 10.129.134.74 ()	Status: Up
+Host: 10.129.134.74 ()	Status: Timeout
+# Nmap done at Sat Nov 21 13:22:23 2026 -- 1 IP address (1 host up) scanned in 906.20 seconds

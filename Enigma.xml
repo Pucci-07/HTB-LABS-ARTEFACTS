@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nmaprun>
+<?xml-stylesheet href="file:///usr/bin/../share/nmap/nmap.xsl" type="text/xsl"?>
+<!-- Nmap 7.95 scan initiated Thu Jul  2 02:03:00 2026 as: nmap -sVC -&#45;script=vuln -T5 -oA Enigma -Pn -p 111 10.129.44.145 -->
+<nmaprun scanner="nmap" args="nmap -sVC -&#45;script=vuln -T5 -oA Enigma -Pn -p 111 10.129.44.145" start="1782957780" startstr="Thu Jul  2 02:03:00 2026" version="7.95" xmloutputversion="1.05">
+<scaninfo type="connect" protocol="tcp" numservices="1" services="111"/>
+<verbose level="0"/>
+<debugging level="0"/>
+<host starttime="1782957790" endtime="1782957791"><status state="up" reason="user-set" reason_ttl="0"/>
+<address addr="10.129.44.145" addrtype="ipv4"/>
+<hostnames>
+<hostname name="enigma.htb" type="PTR"/>
+</hostnames>
+<ports><port protocol="tcp" portid="111"><state state="filtered" reason="no-response" reason_ttl="0"/><service name="rpcbind" method="table" conf="3"/></port>
+</ports>
+</host>
+<runstats><finished time="1782957791" timestr="Thu Jul  2 02:03:11 2026" summary="Nmap done at Thu Jul  2 02:03:11 2026; 1 IP address (1 host up) scanned in 10.98 seconds" elapsed="10.98" exit="success"/><hosts up="1" down="0" total="1"/>
+</runstats>
+</nmaprun>

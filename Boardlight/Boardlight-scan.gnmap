@@ -1,0 +1,4 @@
+# Nmap 7.95 scan initiated Mon Nov 23 10:00:54 2026 as: nmap -sCV -oA Boardlight-scan 10.129.135.150
+Host: 10.129.135.150 ()	Status: Up
+Host: 10.129.135.150 ()	Ports: 22/open/tcp//ssh//OpenSSH 8.2p1 Ubuntu 4ubuntu0.11 (Ubuntu Linux; protocol 2.0)/, 80/open/tcp//http//Apache httpd 2.4.41 ((Ubuntu))/	Ignored State: closed (998)
+# Nmap done at Mon Nov 23 10:01:31 2026 -- 1 IP address (1 host up) scanned in 36.51 seconds

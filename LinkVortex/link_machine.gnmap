@@ -1,0 +1,4 @@
+# Nmap 7.95 scan initiated Mon Nov  2 17:18:27 2026 as: nmap -sCV -oA link_machine 10.129.121.97
+Host: 10.129.121.97 ()	Status: Up
+Host: 10.129.121.97 ()	Ports: 22/open/tcp//ssh//OpenSSH 8.9p1 Ubuntu 3ubuntu0.10 (Ubuntu Linux; protocol 2.0)/, 80/open/tcp//http//Apache httpd/, 83/filtered/tcp//mit-ml-dev///, 1071/filtered/tcp//bsquare-voip///, 1805/filtered/tcp//enl-name///, 2040/filtered/tcp//lam///, 2111/filtered/tcp//kx///, 5678/filtered/tcp//rrac///, 5911/filtered/tcp//cpdlc///, 9110/filtered/tcp/////, 11111/filtered/tcp//vce///, 15660/filtered/tcp//bex-xr///, 33354/filtered/tcp/////	Ignored State: closed (987)
+# Nmap done at Mon Nov  2 17:20:43 2026 -- 1 IP address (1 host up) scanned in 136.08 seconds

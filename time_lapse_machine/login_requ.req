@@ -1,0 +1,16 @@
+POST /login.php HTTP/1.1
+Host: admin.djassapc.com
+Content-Length: 114
+Cache-Control: max-age=0
+Accept-Language: fr-FR,fr;q=0.9
+Origin: http://admin.djassapc.com
+Content-Type: application/x-www-form-urlencoded
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://admin.djassapc.com/login.php
+Accept-Encoding: gzip, deflate, br
+Cookie: DJASSA_ADMIN=8e78b32b347d1abe516d745771db71ca
+Connection: keep-alive
+
+csrf=6bc8828cec2b79fd993842f5a0fc53416dc07c1aa59e925e4ab08d84911cc827&email=admin%40djassapc.com&mot_de_passe=okok
